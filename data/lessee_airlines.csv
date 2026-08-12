@@ -1,0 +1,73 @@
+lessee_airline,lessee_region,fleet_size,load_factor_pct,debt_to_ebitda,operating_margin_pct,state_owned,years_in_operation,on_time_lease_payment_history_pct
+Airline-ASI-03,Asia-Pacific,34,73.6,2.89,-0.9,0,2,100.0
+Airline-LAT-02,Latin America,153,85.6,6.09,14.1,1,9,100.0
+Airline-LAT-14,Latin America,114,84.1,0.95,9.5,0,15,95.4
+Airline-EUR-01,Europe,69,88.8,4.27,3.5,0,55,93.7
+Airline-LAT-09,Latin America,36,81.7,1.01,4.5,0,20,97.7
+Airline-LAT-24,Latin America,26,88.6,2.71,6.9,0,12,86.8
+Airline-ASI-11,Asia-Pacific,149,75.7,7.33,10.2,0,54,99.8
+Airline-LAT-15,Latin America,75,84.5,0.86,8.0,0,2,94.3
+Airline-EUR-21,Europe,94,81.2,1.11,12.9,0,40,93.4
+Airline-EUR-13,Europe,29,87.6,2.12,13.9,0,43,99.8
+Airline-NOR-21,North America,21,73.2,2.8,0.8,0,33,96.1
+Airline-MID-14,Middle East,151,80.7,3.47,-0.1,0,21,97.0
+Airline-ASI-04,Asia-Pacific,143,68.8,2.64,6.3,0,4,89.4
+Airline-ASI-14,Asia-Pacific,181,86.5,1.36,9.7,0,29,93.8
+Airline-LAT-12,Latin America,28,83.8,5.04,12.4,1,59,100.0
+Airline-ASI-20,Asia-Pacific,77,84.4,2.55,10.9,0,40,100.0
+Airline-LAT-08,Latin America,209,68.7,2.63,10.7,0,11,96.3
+Airline-LAT-22,Latin America,55,85.8,8.55,1.3,0,12,85.5
+Airline-EUR-04,Europe,110,85.4,2.7,9.2,0,39,100.0
+Airline-ASI-16,Asia-Pacific,25,84.5,0.8,3.0,0,20,99.7
+Airline-ASI-15,Asia-Pacific,188,93.2,4.58,9.5,0,41,92.7
+Airline-EUR-15,Europe,74,79.5,4.85,12.4,0,47,100.0
+Airline-NOR-09,North America,33,78.3,1.53,2.9,0,3,95.5
+Airline-ASI-21,Asia-Pacific,180,88.1,6.52,5.5,1,4,87.0
+Airline-LAT-23,Latin America,50,72.3,4.75,21.8,0,32,94.7
+Airline-MID-24,Middle East,194,82.5,3.35,2.4,0,38,96.1
+Airline-ASI-24,Asia-Pacific,166,70.8,2.95,3.9,0,58,99.8
+Airline-EUR-18,Europe,189,78.4,1.56,0.3,0,27,93.6
+Airline-EUR-10,Europe,216,82.3,1.32,-1.8,1,21,87.9
+Airline-ASI-23,Asia-Pacific,182,79.4,2.87,13.0,0,18,93.5
+Airline-ASI-09,Asia-Pacific,108,89.8,5.63,2.8,0,11,91.4
+Airline-EUR-03,Europe,149,89.2,3.58,3.2,1,34,90.3
+Airline-EUR-08,Europe,199,71.4,1.7,2.1,0,9,94.7
+Airline-LAT-03,Latin America,84,77.0,5.56,-10.1,0,38,98.9
+Airline-ASI-08,Asia-Pacific,157,87.3,1.16,11.5,0,15,100.0
+Airline-NOR-13,North America,99,81.5,5.02,3.6,0,34,91.1
+Airline-MID-09,Middle East,61,89.7,10.51,6.6,0,16,90.0
+Airline-NOR-01,North America,212,69.4,3.88,15.2,0,40,97.7
+Airline-NOR-03,North America,170,80.1,2.26,6.0,0,46,99.1
+Airline-NOR-16,North America,50,74.9,5.24,7.7,0,4,94.1
+Airline-ASI-06,Asia-Pacific,27,77.5,2.14,8.0,0,23,97.9
+Airline-EUR-20,Europe,18,83.9,2.88,14.7,0,3,91.9
+Airline-EUR-02,Europe,101,78.7,5.66,-1.2,1,8,100.0
+Airline-MID-16,Middle East,165,75.9,1.28,3.5,0,13,97.6
+Airline-LAT-10,Latin America,45,78.4,2.84,-6.3,0,24,98.2
+Airline-EUR-19,Europe,189,78.5,5.08,7.1,0,43,100.0
+Airline-NOR-18,North America,215,79.7,5.2,10.8,0,10,89.3
+Airline-EUR-24,Europe,202,76.3,3.0,4.4,0,3,98.4
+Airline-LAT-17,Latin America,17,84.5,3.71,19.1,1,39,96.1
+Airline-NOR-05,North America,96,78.7,2.18,12.9,1,26,100.0
+Airline-EUR-17,Europe,80,78.4,3.14,18.9,0,13,100.0
+Airline-ASI-10,Asia-Pacific,15,85.0,2.64,8.0,0,59,94.9
+Airline-MID-05,Middle East,114,83.3,1.59,18.0,0,59,88.8
+Airline-LAT-04,Latin America,109,79.7,4.61,4.0,0,28,89.2
+Airline-LAT-16,Latin America,145,77.6,1.68,9.6,1,44,97.8
+Airline-MID-20,Middle East,190,66.1,4.76,7.9,0,17,90.4
+Airline-ASI-18,Asia-Pacific,154,83.9,4.31,4.6,0,40,93.4
+Airline-MID-11,Middle East,146,78.0,2.09,17.2,0,33,95.7
+Airline-EUR-12,Europe,50,77.6,4.15,15.2,0,3,100.0
+Airline-NOR-04,North America,209,89.2,3.78,3.1,0,6,100.0
+Airline-ASI-22,Asia-Pacific,94,89.4,6.12,11.5,0,18,91.0
+Airline-NOR-15,North America,194,82.1,1.69,7.9,0,39,93.2
+Airline-ASI-17,Asia-Pacific,155,78.7,8.07,8.3,0,15,91.0
+Airline-NOR-22,North America,209,74.2,3.48,11.0,0,19,100.0
+Airline-NOR-12,North America,167,92.1,1.8,4.3,1,47,97.1
+Airline-EUR-16,Europe,19,75.8,1.8,8.5,0,39,98.0
+Airline-MID-08,Middle East,164,81.9,0.85,9.2,0,3,93.2
+Airline-LAT-20,Latin America,73,73.2,1.63,3.7,0,36,100.0
+Airline-ASI-12,Asia-Pacific,62,83.8,1.95,4.3,0,15,87.8
+Airline-MID-12,Middle East,154,80.6,4.0,12.7,0,58,98.0
+Airline-NOR-17,North America,165,87.0,4.36,7.6,0,2,98.1
+Airline-ASI-01,Asia-Pacific,94,81.4,3.19,21.7,1,51,88.4

@@ -1,0 +1,6 @@
+aircraft_type,aircraft_count,avg_age_years,avg_lease_rate_factor
+A320neo,29,6.2,0.01
+A321neo,32,6.41,0.01
+A350-900,19,5.88,0.01
+B737 MAX 8,30,5.71,0.01
+B787-9,10,4.61,0.01

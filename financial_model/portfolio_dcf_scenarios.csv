@@ -1,0 +1,4 @@
+scenario,irr_pct,npv_usd_m,terminal_residual_usd_m,year1_cashflow_usd_m
+Bear,0.74,-2997.9,3402.1,597.1
+Base,3.34,-2118.8,3827.3,636.9
+Bull,5.06,-1469.0,4040.0,656.8
